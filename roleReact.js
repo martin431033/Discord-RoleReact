@@ -1,6 +1,6 @@
 // Configuration & Settings
-const yourID = "158063324699951104"; //Instructions on how to get this: https://redd.it/40zgse
-const setupCMD = "!createrolemessage";
+const yourID = "257147010488991744"; //Instructions on how to get this: https://redd.it/40zgse
+const setupCMD = "+v";
 const initialMessage = `**React to the messages below to receive the associated role. If you would like to remove the role, simply remove your reaction!**`;
 const embedMessage = `
 React to the emoji that matches the role you wish to receive.
@@ -8,13 +8,13 @@ React to the emoji that matches the role you wish to receive.
 If you would like to remove the role, simply remove your reaction!
 `;
 const embedFooter = "Role Reactions"; // Must set this if "embed" is set to true
-const roles = ["Hacker", "Artist", "Public Relations", "Intern"];
-const reactions = ["💻", "🖌", "😃", "🆕"]; // For custom emojis, provide the name of the emoji
-const embed = false; // Set to "true" if you want all roles to be in a single embed
+const roles = ["Member"];
+const reactions = ["✅"]; // For custom emojis, provide the name of the emoji
+const embed = true; // Set to "true" if you want all roles to be in a single embed
 const embedColor = "#dd2423"; // Set the embed color if the "embed" variable is set to true
 const embedThumbnail = true; // Set to "true" if you want to set a thumbnail in the embed
 const embedThumbnailLink = "https://i.imgur.com/P8PD7DD.png"; // The link for the embed thumbnail
-const botToken = "";
+const botToken = "NTk0MTY0MDY0ODA5MjU0OTMy.XRYcbg.wEtvlwlOsoBsyAOh6ZvKrNVBcm4";
 /**
  * You'll have to set this up yourself! Read more below:
  * 
