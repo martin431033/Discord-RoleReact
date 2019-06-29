@@ -6,7 +6,7 @@ const embedMessage = `
 Hello! Welcome to WarLegends Network react to the emoji to verify your self in our server and get the member Rank
 `;
 const embedFooter = "Role Reactions"; // Must set this if "embed" is set to true
-const roles = ["Member"];
+const roles = ["「MEMBER 」"];
 const reactions = ["✅"]; // For custom emojis, provide the name of the emoji
 const embed = true; // Set to "true" if you want all roles to be in a single embed
 const embedColor = "#dd2423"; // Set the embed color if the embed variable is set to true
