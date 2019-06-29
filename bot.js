@@ -3,9 +3,7 @@ const yourID = "257147010488991744"; //Instructions on how to get this: https://
 const setupCMD = "+v";
 const initialMessage = `**React to the messages below to receive the associated role. If you would like to remove the role, simply remove your reaction!**`;
 const embedMessage = `
-React to the emoji that matches the role you wish to receive.
-
-If you would like to remove the role, simply remove your reaction!
+Hello! Welcome to WarLegends Network react to the emoji to verify your self in our server and get the member Rank
 `;
 const embedFooter = "Role Reactions"; // Must set this if "embed" is set to true
 const roles = ["Member"];
