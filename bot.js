@@ -38,8 +38,7 @@ function generateMessages() {
 function generateEmbedFields() {
     return roles.map((r, e) => {
         return {
-            emoji: reactions[e],
-            role: r
+          
         };
     });
 }
